@@ -7,7 +7,7 @@
 
 &nbsp;
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/scriptnull/waymond)](https://goreportcard.com/report/github.com/scriptnull/waymond) [![lint](https://github.com/scriptnull/waymond/actions/workflows/lint.yaml/badge.svg?branch=main)](https://github.com/scriptnull/waymond/actions/workflows/lint.yaml) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/scriptnull/waymond) ![GitHub](https://img.shields.io/github/license/scriptnull/waymond)
+[![Go Report Card](https://goreportcard.com/badge/github.com/scriptnull/waymond)](https://goreportcard.com/report/github.com/scriptnull/waymond) [![lint](https://github.com/scriptnull/waymond/actions/workflows/lint.yaml/badge.svg?branch=main)](https://github.com/scriptnull/waymond/actions/workflows/lint.yaml) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/scriptnull/waymond) ![GitHub](https://img.shields.io/github/license/scriptnull/waymond) [![chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://shinobistack.zulipchat.com/#narrow/channel/486792-waymond)
 
 waymond is
 
